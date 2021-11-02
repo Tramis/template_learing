@@ -1,3 +1,5 @@
+/// \b 成员指针
+
 // expre_Expressions_with_Pointer_Member_Operators.cpp
 // compile with: /EHsc
 #include <iostream>
