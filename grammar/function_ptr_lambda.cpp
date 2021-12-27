@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main(){
-    // initial_list {}
+    // this block {} means initial_list {}
     int(*ptr)(int,int){
         [](int a,int b){return a + b;}
     };
